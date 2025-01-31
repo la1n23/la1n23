@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub stats](https://tryhackme-badges.s3.amazonaws.com/1ain.png)](https://tryhackme.com/r/p/1ain)
