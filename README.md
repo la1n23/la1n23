@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub stats](https://tryhackme-badges.s3.amazonaws.com/1ain.png)](https://tryhackme.com/r/p/1ain)
