@@ -2,8 +2,9 @@
 
 - 🎓[pwn.college](https://pwn.college/hacker/112822)
 - 📦[Hack The Box](https://app.hackthebox.com/profile/2225567)
-- ⚡[Pick up Random Bug Bounty Target](https://la1n23.github.io/random-bb/)
+- 🧩[Try Hack Me](https://tryhackme.com/p/la1n23)
 - 💻[Exercism](https://exercism.org/profiles/la1n23)
+- ⚡[Pick up Random Bug Bounty Target](https://la1n23.github.io/random-bb/)
 
 <!--
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
