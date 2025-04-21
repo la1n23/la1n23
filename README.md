@@ -4,7 +4,7 @@
 - 📦[Hack The Box](https://app.hackthebox.com/profile/2225567)
 - 🧩[Try Hack Me](https://tryhackme.com/p/la1n23)
 - 💻[Exercism](https://exercism.org/profiles/la1n23)
-- ⚡[Pick up Random Bug Bounty Target](https://la1n23.github.io/random-bb/)
+- ⚡[Pick Random Bug Bounty Target](https://la1n23.github.io/random-bb/)
 
 <!--
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⡽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
